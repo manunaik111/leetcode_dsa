@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manunaik111/leetcode_dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/manunaik111/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/manunaik111/leetcode_dsa/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0088-merge-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manunaik111/leetcode_dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manunaik111/leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manunaik111/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manunaik111/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/manunaik111/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
