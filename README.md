@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manunaik111/leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/manunaik111/leetcode_dsa/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/manunaik111/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/manunaik111/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/manunaik111/leetcode_dsa/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/manunaik111/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/manunaik111/leetcode_dsa/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/manunaik111/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/manunaik111/leetcode_dsa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manunaik111/leetcode_dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0189-rotate-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manunaik111/leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/manunaik111/leetcode_dsa/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/manunaik111/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/manunaik111/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/manunaik111/leetcode_dsa/tree/master/0125-valid-palindrome) |
 ## Sliding Window
