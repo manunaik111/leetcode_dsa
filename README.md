@@ -47,9 +47,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/manunaik111/leetcode_dsa/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/manunaik111/leetcode_dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/manunaik111/leetcode_dsa/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/manunaik111/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
