@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manunaik111/leetcode_dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/manunaik111/leetcode_dsa/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/manunaik111/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/manunaik111/leetcode_dsa/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/manunaik111/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manunaik111/leetcode_dsa/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/manunaik111/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manunaik111/leetcode_dsa/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/manunaik111/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/manunaik111/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
