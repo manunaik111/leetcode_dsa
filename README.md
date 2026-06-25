@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/manunaik111/leetcode_dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manunaik111/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/manunaik111/leetcode_dsa/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/manunaik111/leetcode_dsa/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/manunaik111/leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/manunaik111/leetcode_dsa/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/manunaik111/leetcode_dsa/tree/master/0290-word-pattern) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/manunaik111/leetcode_dsa/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/manunaik111/leetcode_dsa/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/manunaik111/leetcode_dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/manunaik111/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
