@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manunaik111/leetcode_dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/manunaik111/leetcode_dsa/tree/master/0049-group-anagrams) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manunaik111/leetcode_dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0088-merge-sorted-array) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manunaik111/leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
