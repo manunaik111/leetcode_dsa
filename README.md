@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/manunaik111/leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/manunaik111/leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/manunaik111/leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0739-daily-temperatures](https://github.com/manunaik111/leetcode_dsa/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/manunaik111/leetcode_dsa/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manunaik111/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/manunaik111/leetcode_dsa/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
