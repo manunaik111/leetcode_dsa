@@ -191,21 +191,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/manunaik111/leetcode_dsa/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/manunaik111/leetcode_dsa/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manunaik111/leetcode_dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manunaik111/leetcode_dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/manunaik111/leetcode_dsa/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/manunaik111/leetcode_dsa/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/manunaik111/leetcode_dsa/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/manunaik111/leetcode_dsa/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manunaik111/leetcode_dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manunaik111/leetcode_dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/manunaik111/leetcode_dsa/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manunaik111/leetcode_dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manunaik111/leetcode_dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
